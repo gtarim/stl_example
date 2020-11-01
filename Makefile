@@ -13,7 +13,17 @@ CXXFLAGS = -std=c++11
 # SRC = std_distance.cpp
 # SRC = std_count.cpp
 # SRC = std_stack.cpp
-SRC = std_set.cpp
+# SRC = std_set.cpp
+# SRC = std_min_max_element.cpp
+# SRC = std_reverse.cpp
+# SRC = std_all_any_none_of.cpp
+# SRC = std_swap.cpp
+# SRC = std_rotate.cpp
+# SRC = std_fill.cpp
+# SRC = std_unique.cpp
+# SRC = std_queue.cpp
+# SRC = std_deque.cpp
+SRC = std_shared_ptr.cpp
 
 
 OBJ = $(SRC:.cc=.o)
