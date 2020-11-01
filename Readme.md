@@ -22,7 +22,7 @@
 - [x] std::unique
 - [x] std::queue
 - [x] std::deque
-- [ ] std::shared_ptr
+- [x] std::unique_ptr
 - [ ] std::function
 - [ ] std::async
 - [ ] std::future
