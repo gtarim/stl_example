@@ -23,7 +23,10 @@ CXXFLAGS = -std=c++11
 # SRC = std_unique.cpp
 # SRC = std_queue.cpp
 # SRC = std_deque.cpp
-SRC = std_unique_ptr.cpp
+# SRC = std_unique_ptr.cpp
+# SRC = std_shared_ptr.cpp
+SRC = std_pair.cpp
+# SRC = std_multimap.cpp
 
 
 OBJ = $(SRC:.cc=.o)

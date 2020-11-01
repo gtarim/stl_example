@@ -23,6 +23,9 @@
 - [x] std::queue
 - [x] std::deque
 - [x] std::unique_ptr
+- [x] std::shared_ptr
+- [x] std::pair
+- [x] std::multimap
 - [ ] std::function
 - [ ] std::async
 - [ ] std::future
