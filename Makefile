@@ -25,8 +25,14 @@ CXXFLAGS = -std=c++11
 # SRC = std_deque.cpp
 # SRC = std_unique_ptr.cpp
 # SRC = std_shared_ptr.cpp
-SRC = std_pair.cpp
+# SRC = std_pair.cpp
 # SRC = std_multimap.cpp
+# SRC = std_multiset.cpp
+# SRC = std_priority_queue.cpp
+# SRC = std_binary_search.cpp
+# SRC = std_lower_bound.cpp
+# SRC = std_find.cpp
+SRC = std_nth_element.cpp
 
 
 OBJ = $(SRC:.cc=.o)

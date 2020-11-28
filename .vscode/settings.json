@@ -4,6 +4,8 @@
         "algorithm": "cpp",
         "deque": "cpp",
         "queue": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "__tree": "cpp",
+        "utility": "cpp"
     }
 }

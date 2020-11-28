@@ -26,6 +26,11 @@
 - [x] std::shared_ptr
 - [x] std::pair
 - [x] std::multimap
+- [x] std::multiset
+- [x] std::priorty_queue
+- [x] std::binary_search
+- [x] std::lower_bound
+- [x] std::upper_bound
 - [ ] std::function
 - [ ] std::async
 - [ ] std::future
